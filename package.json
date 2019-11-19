@@ -1,6 +1,6 @@
 {
     "name": "material-styles",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "description": "@material-ui/style bundle",
     "main": "dist/material-styles.production.min.js",
     "files": ["dist"],
